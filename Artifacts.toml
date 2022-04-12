@@ -1,0 +1,111 @@
+[[Kerberos_krb5]]
+arch = "aarch64"
+git-tree-sha1 = "052e58e6b68eb443a9bd150fdf49efe3fa9b7952"
+libc = "glibc"
+os = "linux"
+
+    [[Kerberos_krb5.download]]
+    sha256 = "0f017bffa6ab8f68d81f643212bebf3b6272c1416576cfb2373912fff5c43d31"
+    url = "https://github.com/JuliaBinaryWrappers/Kerberos_krb5_jll.jl/releases/download/Kerberos_krb5-v1.19.3+0/Kerberos_krb5.v1.19.3.aarch64-linux-gnu.tar.gz"
+[[Kerberos_krb5]]
+arch = "aarch64"
+git-tree-sha1 = "41699dd1f9e2da86e0d9a421aefe616a0db2d0fe"
+libc = "musl"
+os = "linux"
+
+    [[Kerberos_krb5.download]]
+    sha256 = "1b2e8def01f5e1ee367794154085bb8c7bb4bcb07e816eaeac2fc870cc180ec4"
+    url = "https://github.com/JuliaBinaryWrappers/Kerberos_krb5_jll.jl/releases/download/Kerberos_krb5-v1.19.3+0/Kerberos_krb5.v1.19.3.aarch64-linux-musl.tar.gz"
+[[Kerberos_krb5]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ef429551f18c9931751c02dd3d7fbd9836abfaa0"
+libc = "glibc"
+os = "linux"
+
+    [[Kerberos_krb5.download]]
+    sha256 = "fd5ef18971b773d72525682f60ff721d3130344e5fa5272b1f238b26837d9129"
+    url = "https://github.com/JuliaBinaryWrappers/Kerberos_krb5_jll.jl/releases/download/Kerberos_krb5-v1.19.3+0/Kerberos_krb5.v1.19.3.armv6l-linux-gnueabihf.tar.gz"
+[[Kerberos_krb5]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b5c59e034820d883c2df6ba2cb56486f31cd1e6d"
+libc = "musl"
+os = "linux"
+
+    [[Kerberos_krb5.download]]
+    sha256 = "bfbadc496668ad4495fb9ed674294c015f48fa67dc1e3795c1152c4f76ed9b37"
+    url = "https://github.com/JuliaBinaryWrappers/Kerberos_krb5_jll.jl/releases/download/Kerberos_krb5-v1.19.3+0/Kerberos_krb5.v1.19.3.armv6l-linux-musleabihf.tar.gz"
+[[Kerberos_krb5]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1c6bb653cda6cce8816db27f6d224811392c8cda"
+libc = "glibc"
+os = "linux"
+
+    [[Kerberos_krb5.download]]
+    sha256 = "5febb9d8d51b5b0cc0fbd287dda3145d9f070787940a4d17ea324d9da5474da4"
+    url = "https://github.com/JuliaBinaryWrappers/Kerberos_krb5_jll.jl/releases/download/Kerberos_krb5-v1.19.3+0/Kerberos_krb5.v1.19.3.armv7l-linux-gnueabihf.tar.gz"
+[[Kerberos_krb5]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "908bae67ca71e24bd131d4efdb05c6ac3ed71105"
+libc = "musl"
+os = "linux"
+
+    [[Kerberos_krb5.download]]
+    sha256 = "b809452915be64439b5397a931a984c16880dd850d6e782139fed6b3f857a617"
+    url = "https://github.com/JuliaBinaryWrappers/Kerberos_krb5_jll.jl/releases/download/Kerberos_krb5-v1.19.3+0/Kerberos_krb5.v1.19.3.armv7l-linux-musleabihf.tar.gz"
+[[Kerberos_krb5]]
+arch = "i686"
+git-tree-sha1 = "207f5072d4c890904d022efb156023466c3d4360"
+libc = "glibc"
+os = "linux"
+
+    [[Kerberos_krb5.download]]
+    sha256 = "bc494bdb85e61fad1d1f8da72b67a3213e7e11497b99129f4f149de60ba01690"
+    url = "https://github.com/JuliaBinaryWrappers/Kerberos_krb5_jll.jl/releases/download/Kerberos_krb5-v1.19.3+0/Kerberos_krb5.v1.19.3.i686-linux-gnu.tar.gz"
+[[Kerberos_krb5]]
+arch = "i686"
+git-tree-sha1 = "cad9b451aa94ef9628d7335600c7ef4f6014d411"
+libc = "musl"
+os = "linux"
+
+    [[Kerberos_krb5.download]]
+    sha256 = "7aefd6fd070cf2d52e3ec1342895ec24797a1b44768a7a447a067511181c25e5"
+    url = "https://github.com/JuliaBinaryWrappers/Kerberos_krb5_jll.jl/releases/download/Kerberos_krb5-v1.19.3+0/Kerberos_krb5.v1.19.3.i686-linux-musl.tar.gz"
+[[Kerberos_krb5]]
+arch = "powerpc64le"
+git-tree-sha1 = "8faf08e75bd5a4bbf90bf2dae6d5d60dffed6546"
+libc = "glibc"
+os = "linux"
+
+    [[Kerberos_krb5.download]]
+    sha256 = "6bcc689a39f40a8972509974a3fba596ed2702782009a99a78b5805fdcd8eab9"
+    url = "https://github.com/JuliaBinaryWrappers/Kerberos_krb5_jll.jl/releases/download/Kerberos_krb5-v1.19.3+0/Kerberos_krb5.v1.19.3.powerpc64le-linux-gnu.tar.gz"
+[[Kerberos_krb5]]
+arch = "x86_64"
+git-tree-sha1 = "bcc1d83b52a40edd5c3e44e1a9c471675abcf8eb"
+libc = "glibc"
+os = "linux"
+
+    [[Kerberos_krb5.download]]
+    sha256 = "dff1775d7b56338f742f9760783bf4f93a9f5caa181b0e880caee9b40869cae4"
+    url = "https://github.com/JuliaBinaryWrappers/Kerberos_krb5_jll.jl/releases/download/Kerberos_krb5-v1.19.3+0/Kerberos_krb5.v1.19.3.x86_64-linux-gnu.tar.gz"
+[[Kerberos_krb5]]
+arch = "x86_64"
+git-tree-sha1 = "9dfeeacbe873c04674168800a665b5683b93338c"
+libc = "musl"
+os = "linux"
+
+    [[Kerberos_krb5.download]]
+    sha256 = "f17312331f62291f0ca31a4973b54a1d27853ff57738b9f3e32dfa74ec4f1a0d"
+    url = "https://github.com/JuliaBinaryWrappers/Kerberos_krb5_jll.jl/releases/download/Kerberos_krb5-v1.19.3+0/Kerberos_krb5.v1.19.3.x86_64-linux-musl.tar.gz"
+[[Kerberos_krb5]]
+arch = "x86_64"
+git-tree-sha1 = "245117f5d75646ca07a3c798da9ec89104031fc5"
+os = "freebsd"
+
+    [[Kerberos_krb5.download]]
+    sha256 = "ddd743a665d6fbe4bd912c8616c1f8482b4fe5156afd5e879278343759a808ce"
+    url = "https://github.com/JuliaBinaryWrappers/Kerberos_krb5_jll.jl/releases/download/Kerberos_krb5-v1.19.3+0/Kerberos_krb5.v1.19.3.x86_64-unknown-freebsd.tar.gz"
